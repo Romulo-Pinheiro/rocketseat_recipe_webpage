@@ -2,7 +2,7 @@
 <p align="center">
   <a href="#-project">Project</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project-vision">Project Vision</a> &nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-project-vision">Project Vision</a> &nbsp;&nbsp;&nbsp;
 </p>
 
 ## 💻 Project
